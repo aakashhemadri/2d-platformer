@@ -42,6 +42,9 @@ margin_left = -180.0
 margin_top = -75.0
 margin_right = 180.0
 margin_bottom = 79.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="PlayButton" parent="Menu" instance=ExtResource( 5 )]
 margin_right = 360.0
